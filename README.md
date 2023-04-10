@@ -11,4 +11,4 @@
 #### docs [LINK](https://github.com/ITUDY/docs)
 
 ## branch 전략
-https://github.com/ITUDY/docs/issues/2#issue-1660857449
+https://github.com/ITUDY/docs/issues/2
