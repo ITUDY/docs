@@ -1,6 +1,13 @@
-# ITUDY Project Documentation
+# ITUDY: 스터디/프로젝트 모집&관리/운영 솔루션
 
 <img width="1291" alt="image" src="https://user-images.githubusercontent.com/56215323/231165232-fb6938a1-77e6-447e-9180-bee2b144beab.png">
+
+## member
+- [waspy](https://github.com/rhkd6351): BE
+- [roddyisthebest](https://github.com/roddyisthebest): FE
+
+## 구성도
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/56215323/231170047-64c95497-385d-4239-9d79-6186a88bd658.png">
 
 ## Repositories
 #### ITUDY-BE [LINK](https://github.com/ITUDY/itudy-be)
