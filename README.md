@@ -1,4 +1,4 @@
-# ITUDY: 스터디/프로젝트 모집&관리/운영 솔루션
+# ITUDY: 스터디/프로젝트 관리 솔루션
 
 <img width="1291" alt="image" src="https://user-images.githubusercontent.com/56215323/231165232-fb6938a1-77e6-447e-9180-bee2b144beab.png">
 
