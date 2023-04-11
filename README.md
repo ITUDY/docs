@@ -3,19 +3,25 @@
 ## Member
 - [waspy](https://github.com/rhkd6351): BE
 - [roddyisthebest](https://github.com/roddyisthebest): FE
-
-## 구성도
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/56215323/231170047-64c95497-385d-4239-9d79-6186a88bd658.png">
-
 ## Repositories
 #### - ITUDY-BE [LINK](https://github.com/ITUDY/itudy-be)
+
+<details>
+<summary>services</summary>
+
 - user-service
 - gateway-service
 - discovery-service
+
+</details>
+
 #### - ITUDY-CONFIG-SERVER [private]
 #### - ITUDY-CONFIGURATION [private]
 #### - ITUDY-FE [LINK](https://github.com/ITUDY/itudy-fe)
 #### - docs [LINK](https://github.com/ITUDY/docs)
+
+## 구성도
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/56215323/231170047-64c95497-385d-4239-9d79-6186a88bd658.png">
 
 ## branch 전략 [link](https://github.com/ITUDY/docs/issues/2)
 
