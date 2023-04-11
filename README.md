@@ -1,5 +1,7 @@
 # ITUDY Project Documentation
 
+<img width="1291" alt="image" src="https://user-images.githubusercontent.com/56215323/231165232-fb6938a1-77e6-447e-9180-bee2b144beab.png">
+
 ## Repositories
 #### ITUDY-BE [LINK](https://github.com/ITUDY/itudy-be)
 - user-service
