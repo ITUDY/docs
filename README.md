@@ -13,4 +13,4 @@
 ## branch 전략
 <img width="962" alt="image" src="https://user-images.githubusercontent.com/56215323/231164667-8dcfb86b-ff8c-4ffd-a7c2-48302bc3623c.png">
 
-https://github.com/ITUDY/docs/issues/2
+[branch strategy](https://github.com/ITUDY/docs/issues/2)
