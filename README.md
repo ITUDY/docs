@@ -5,16 +5,6 @@
 - [roddyisthebest](https://github.com/roddyisthebest): FE
 ## Repositories
 #### - ITUDY-BE [LINK](https://github.com/ITUDY/itudy-be)
-
-<details>
-<summary>services</summary>
-
-- user-service
-- gateway-service
-- discovery-service
-
-</details>
-
 #### - ITUDY-CONFIG-SERVER [private]
 #### - ITUDY-CONFIGURATION [private]
 #### - ITUDY-FE [LINK](https://github.com/ITUDY/itudy-fe)
